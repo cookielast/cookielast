@@ -2,6 +2,8 @@
 
 ###
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cookielast&label=Profile%20views&color=0e75b6&style=flat" alt="cookielast" /> </p>
+
 <h3 align="left">Language and tools:</h3>
 
 ###
@@ -37,7 +39,7 @@
 
 ###
 
-<h3 align="left">Github stats:</h3>
+<h3 align="left">Spotify:</h3>
 
 ###
 
@@ -46,5 +48,13 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31sza7dzwxizx6qbcro2fb7x7efm&count=5" alt="Spotify recently played"  />
   </a>
 </div>
+
+###
+
+<h3 align="left">Github stats:</h3>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cookielast&show_icons=true&locale=en" alt="cookielast" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cookielast&" alt="cookielast" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cookielast&show_icons=true&locale=en&layout=compact" alt="cookielast" /></p>
 
 ###
