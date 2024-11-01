@@ -2,10 +2,6 @@
 
 ###
 
-<img align="right" height="150" src="https://i.ibb.co/ggpDR9d/photo-2024-11-01-14-38-21.jpg"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
   <img width="12" />
