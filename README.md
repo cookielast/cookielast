@@ -4,7 +4,7 @@
   cookielast
   ----------
   email - cookielast@mail.ru
-  website - cookielast.xyz
+  website - cookielast.bet
   
   local time - Novosibirsk
   comporation - URocket | CEO / DEVELOPER
