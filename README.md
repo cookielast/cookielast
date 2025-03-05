@@ -7,7 +7,6 @@
   website - cookielast.bet
   
   local time - Novosibirsk
-  comporation - URocket | CEO / DEVELOPER
   ```
 
 </div>
